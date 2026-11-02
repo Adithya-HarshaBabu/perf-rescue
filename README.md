@@ -1,5 +1,7 @@
 # Perf Rescue
 
+**Live demo: [perf-rescue.vercel.app](https://perf-rescue.vercel.app)**
+
 **One React dashboard, built twice: the way slow apps usually get built, and fixed.** Same features,
 same markup, same 10,000 orders. The race page types into both and measures them live in your browser.
 
